@@ -2,7 +2,7 @@ import re
 import os
 import sys
 
-threshold  = 4000
+threshold  = 1000000
 
 TOTAL = 0
 RESPONSE_SUM = 0
